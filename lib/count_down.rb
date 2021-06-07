@@ -4,4 +4,4 @@ while x > 0 do
   puts x.to_i
   x -= 1
 end
-puts ""
+puts "Happy New Year!"
